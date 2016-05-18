@@ -1,15 +1,19 @@
 # GotoBeez
 
-Browser based game built using PhaserJS during a hack day event.
+Browser based game built using a HTML5 game framework, PhaserJS (http://phaser.io/), during a hack day event.
 
-Play:
+**Play:**
+
 http://rpotsakis.github.io/GotoBeez/
 
-Controls:
+**Controls:**
+
 fly - mouse click
+
 move left/right - arrow left/right
 
-Objective:
+**Objective:**
+
 Collect the pollen from the flowers by hovering near flower and return it to the hive.
 
 
